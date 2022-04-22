@@ -6,6 +6,7 @@ Welcome to coding world! This is the place to be if you want to learn front-end 
 
 ## Description 
 Here is a sample video of how I dynamically generated a README.md
+
 ![Video](/ReadMe%20Generator%20p2.gif)
 
 See full video [here](https://drive.google.com/file/d/1FV_slApK3J3PuWq2lMPW4XHJg8KJVc6h/view?usp=sharing)
