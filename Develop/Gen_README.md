@@ -1,8 +1,8 @@
-# Code World
+# Coding World
 
-![Badge](https://img.shields.io/badge/license-MIT-blue.svg)
+![Badge](https://img.shields.io/badge/license-Apache-blue.svg)
 
-Welcome to the world of code! Where anything is possible just going to take a while to get to your destination but thats okay!
+Welcome to coding world! This is the place to be if you want to learn front-end and back-end programming no matter if you are abeginner or expert! Come learn something new at Coding World!
 
 ## Table of Contents
 
@@ -18,23 +18,23 @@ Welcome to the world of code! Where anything is possible just going to take a wh
 npm i 
 
 ## Usage
-To welcome new coders back-end side of programming starting with this example
+To improve developers on back-end programming using the robust framework node
 
 ## License
-MIT
+Apache
 
 
 ## Test
-no 
+there is no test
 
 
 ## Contributors
-christian dawson 
+Christian, Dawson, Micheal
 
 
 ## Questions
 
-If any questions contact me at : dumasdj23@gamil.com
-Github : onlydeniros
+If any questions contact me at : dumasdj23@gmail.com
+Github : @onlydeniros
 
 
